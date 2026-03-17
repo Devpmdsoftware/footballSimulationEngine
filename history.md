@@ -1,5 +1,25 @@
 # History of footballSimulationEngine
 
+## Version 5.0.0
+- new: added player height to the game and made jumping additional height reached
+- new: added player skill perception
+- new: added handball
+- new: improved z-axis for gravity over time and friction
+- new: state which part of the body was hit during deflection and normal play
+- updated: scaled ball power, gravity and roll on grass. All ball movement now linked to kick power
+- new: linked kick power to player strength and scaled to pitchHeight
+- updated: separated player movement decisions from ball actions to prevent multiple players interacting with the ball in the same iteration
+- new: added logic to ensure only one player can execute a ball action per iteration
+- updated: ball actions are now blocked while the ball is already travelling (ballOverIterations)
+- updated: improved possession handling so ball ownership is cleared correctly after kicks
+- updated: refactored iteration flow to process:
+   - ball movement
+   - player movement
+   - single ball interaction
+- updated: improved penalty setup to guarantee the taker is on the pitch and correctly assigned the ball
+- fixed: players could attempt ball actions while the ball was already in flight
+- fixed: multiple ball kicks could be triggered in the same iteration
+
 ## Version 4.0.0
 - fixed: red cards didn't send players off the pitch correctly
 - fixed: player skills incorrectly assigned for tackles and slide tackles

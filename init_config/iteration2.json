@@ -18,13 +18,16 @@
                "agility": "20",
                "strength": "20",
                "penalty_taking": "43",
-               "jumping": "300"
+               "perception": "75",
+               "jumping": "31",
+               "control": "60"
             },
             "currentPOS": [
                340,
                0
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                340,
@@ -74,13 +77,16 @@
                "agility": "20",
                "strength": "20",
                "penalty_taking": "20",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "52",
+               "control": "60"
             },
             "currentPOS": [
                80,
                80
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                80,
@@ -130,13 +136,16 @@
                "agility": "20",
                "strength": "20",
                "penalty_taking": "20",
-               "jumping": "212"
+               "perception": "75",
+               "jumping": "212",
+               "control": "60"
             },
             "currentPOS": [
                230,
                80
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                230,
@@ -186,13 +195,16 @@
                "agility": "20",
                "strength": "20",
                "penalty_taking": "21",
-               "jumping": "280"
+               "perception": "75",
+               "jumping": "43",
+               "control": "60"
             },
             "currentPOS": [
                420,
                80
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                420,
@@ -242,13 +254,16 @@
                "agility": "20",
                "strength": "23",
                "penalty_taking": "20",
-               "jumping": "299"
+               "perception": "75",
+               "jumping": "29",
+               "control": "60"
             },
             "currentPOS": [
                600,
                80
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                600,
@@ -298,13 +313,16 @@
                "agility": "20",
                "strength": "20",
                "penalty_taking": "20",
-               "jumping": "250"
+               "perception": "75",
+               "jumping": "61",
+               "control": "60"
             },
             "currentPOS": [
                80,
                270
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                80,
@@ -354,13 +372,16 @@
                "agility": "20",
                "strength": "20",
                "penalty_taking": "1",
-               "jumping": "120"
+               "perception": "75",
+               "jumping": "64",
+               "control": "60"
             },
             "currentPOS": [
                230,
                270
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                230,
@@ -410,13 +431,16 @@
                "agility": "20",
                "strength": "20",
                "penalty_taking": "20",
-               "jumping": "175"
+               "perception": "75",
+               "jumping": "67",
+               "control": "60"
             },
             "currentPOS": [
                420,
                270
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                420,
@@ -466,13 +490,16 @@
                "agility": "20",
                "strength": "20",
                "penalty_taking": "20",
-               "jumping": "288"
+               "perception": "75",
+               "jumping": "48",
+               "control": "60"
             },
             "currentPOS": [
                600,
                270
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                600,
@@ -522,13 +549,16 @@
                "agility": "20",
                "strength": "20",
                "penalty_taking": "20",
-               "jumping": "291"
+               "perception": "75",
+               "jumping": "46",
+               "control": "60"
             },
             "currentPOS": [
                340,
                525
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                280,
@@ -578,13 +608,16 @@
                "agility": "20",
                "strength": "20",
                "penalty_taking": "20",
-               "jumping": "280"
+               "perception": "75",
+               "jumping": "49",
+               "control": "60"
             },
             "currentPOS": [
                360,
                525
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                440,
@@ -642,13 +675,16 @@
                "agility": "70",
                "strength": "60",
                "penalty_taking": "45",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "50",
+               "control": "60"
             },
             "currentPOS": [
                340,
                1050
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                340,
@@ -698,13 +734,16 @@
                "agility": "30",
                "strength": "30",
                "penalty_taking": "77",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "52",
+               "control": "60"
             },
             "currentPOS": [
                80,
                970
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                80,
@@ -754,13 +793,16 @@
                "agility": "76",
                "strength": "59",
                "penalty_taking": "77",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "54",
+               "control": "60"
             },
             "currentPOS": [
                230,
                970
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                230,
@@ -810,13 +852,16 @@
                "agility": "83",
                "strength": "73",
                "penalty_taking": "77",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "56",
+               "control": "60"
             },
             "currentPOS": [
                420,
                970
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                420,
@@ -866,13 +911,16 @@
                "agility": "70",
                "strength": "90",
                "penalty_taking": "77",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "39",
+               "control": "60"
             },
             "currentPOS": [
                600,
                970
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                600,
@@ -922,13 +970,16 @@
                "agility": "65",
                "strength": "85",
                "penalty_taking": "77",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "51",
+               "control": "60"
             },
             "currentPOS": [
                80,
                780
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                80,
@@ -978,13 +1029,16 @@
                "agility": "70",
                "strength": "40",
                "penalty_taking": "77",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "48",
+               "control": "60"
             },
             "currentPOS": [
                230,
                780
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                230,
@@ -1034,13 +1088,16 @@
                "agility": "90",
                "strength": "75",
                "penalty_taking": "77",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "40",
+               "control": "60"
             },
             "currentPOS": [
                420,
                780
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                420,
@@ -1090,13 +1147,16 @@
                "agility": "40",
                "strength": "40",
                "penalty_taking": "77",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "50",
+               "control": "60"
             },
             "currentPOS": [
                600,
                780
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                600,
@@ -1146,13 +1206,16 @@
                "agility": "43",
                "strength": "76",
                "penalty_taking": "77",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "45",
+               "control": "60"
             },
             "currentPOS": [
                280,
                550
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                280,
@@ -1202,13 +1265,16 @@
                "agility": "43",
                "strength": "88",
                "penalty_taking": "77",
-               "jumping": "235"
+               "perception": "75",
+               "jumping": "47",
+               "control": "60"
             },
             "currentPOS": [
                440,
                550
             ],
             "fitness": 100,
+            "height": 120,
             "injured": false,
             "originPOS": [
                440,
@@ -1266,7 +1332,9 @@
       "lastTouch": {
          "playerName": "Emily Smith",
          "playerID": 78883930303030204,
-         "teamID": 78883930303030003
+         "teamID": 78883930303030003,
+         "bodyPart": "shin",
+         "deflection": true
       },
       "ballOverIterations": []
    },
